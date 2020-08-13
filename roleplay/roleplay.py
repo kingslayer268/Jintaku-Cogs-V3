@@ -75,60 +75,7 @@ class Roleplay(BaseCog):
                 "https://media.giphy.com/media/KMQoRt68bFei4/giphy.gif",
                 "https://cdn.weeb.sh/images/BkZngAYtb.gif",
             ],
-            "cuddle": [
-                "https://cdn.weeb.sh/images/BkTe8U7v-.gif",
-                "https://cdn.weeb.sh/images/SykzL87D-.gif",
-                "https://cdn.weeb.sh/images/BywGX8caZ.gif",
-                "https://cdn.weeb.sh/images/SJceIU7wZ.gif",
-                "https://cdn.weeb.sh/images/SJn18IXP-.gif",
-                "https://cdn.weeb.sh/images/B1Qb88XvW.gif",
-                "https://cdn.weeb.sh/images/r1XEOymib.gif",
-                "https://cdn.weeb.sh/images/SJLkLImPb.gif",
-                "https://cdn.weeb.sh/images/SyUYOJ7iZ.gif",
-                "https://cdn.weeb.sh/images/rkBl8LmDZ.gif",
-                "https://cdn.weeb.sh/images/Byd1IUmP-.gif",
-                "https://cdn.weeb.sh/images/B1S1I87vZ.gif",
-                "https://cdn.weeb.sh/images/r1s9RqB7G.gif",
-                "https://cdn.weeb.sh/images/Hy5y88mPb.gif",
-                "https://cdn.weeb.sh/images/rkA6SU7w-.gif",
-                "https://cdn.weeb.sh/images/r1A77CZbz.gif",
-                "https://cdn.weeb.sh/images/SJYxIUmD-.gif",
-                "https://cdn.weeb.sh/images/H1SfI8XwW.gif",
-                "https://cdn.weeb.sh/images/rJCAH8XPb.gif",
-                "https://cdn.weeb.sh/images/By03IkXsZ.gif",
-                "https://cdn.weeb.sh/images/ryfyLL7D-.gif",
-                "https://cdn.weeb.sh/images/BJwpw_XLM.gif",
-                "https://cdn.weeb.sh/images/r1VzDkmjW.gif",
-                "https://cdn.weeb.sh/images/BJkABImvb.gif",
-                "https://cdn.weeb.sh/images/HkzArUmvZ.gif",
-                "https://cdn.weeb.sh/images/r1A77CZbz.gif",
-            ],
-            "kiss": [
-                "https://img2.gelbooru.com/images/72/3d/723d7b46a080e459321cb0a46fa4ff84.gif",
-                "https://img2.gelbooru.com/images/14/15/141537ae7a372f093e7d6996b16c245b.gif",
-                "https://img2.gelbooru.com/images/0d/f6/0df60e366022350bdaf7f49390ac90a9.gif",
-                "https://img2.gelbooru.com/images/41/07/41070fe3eff7262f9f607a0a307c9740.gif",
-                "https://img2.gelbooru.com/images/1c/67/1c670a0dc8ab6a43eb8b6781d78600ab.gif",
-                "https://img2.gelbooru.com/images/63/f5/63f5a9a4cf7a872d6982ae6e518d212e.gif",
-                "https://img2.gelbooru.com/images/a1/a8/a1a888b4f4c69e1dc493cbf66a3a855a.gif",
-                "https://img2.gelbooru.com/images/ca/67/ca67e314075bab7fde43bfc9686e7fde.gif",
-                "https://img2.gelbooru.com/images/28/45/2845a2ad83b4f207d7ccfbb98c3a1be6.gif",
-                "https://i.imgur.com/WYkVxW2.gif",
-                "https://i.imgur.com/xu104Xp.gif",
-                "https://i.imgur.com/8jcpBO7.gif",
-                "https://i.imgur.com/jmWGYh5.gif",
-                "https://i.imgur.com/Sg8Obai.gif",
-                "https://i.imgur.com/Pr06rra.gif",
-                "https://i.imgur.com/J8xgNpE.gif",
-                "https://i.imgur.com/gtIEfcS.gif",
-                "https://i.imgur.com/j3zdC5g.gif",
-                "https://cdn.weeb.sh/images/r1cB3aOwW.gif",
-                "https://cdn.weeb.sh/images/B1MJ2aODb.gif",
-                "https://cdn.weeb.sh/images/Hy-oQl91z.gif",
-                "https://cdn.weeb.sh/images/rJ6PWohA-.gif",
-                "https://cdn.weeb.sh/images/rJrCj6_w-.gif",
-                "https://78.media.tumblr.com/7255f36b2c31fac77542e8fe6837b408/tumblr_mokq94dAXR1s05qslo1_500.gif",
-            ],
+
             "slap": [
                 "https://cdn.weeb.sh/images/H16aQJFvb.gif",
                 "https://img2.gelbooru.com/images/d2/2c/d22c2eedd00914ce38efb46d797be031.gif",
@@ -218,19 +165,7 @@ class Roleplay(BaseCog):
                 "https://cdn.weeb.sh/images/SJudB96_f.gif",
                 "https://cdn.weeb.sh/images/r1lVQgcyG.gif",
             ],
-            "lick": [
-                "https://media1.tenor.com/images/c4f68fbbec3c96193386e5fcc5429b89/tenor.gif?itemid=13451325",
-                "https://media1.tenor.com/images/ec2ca0bf12d7b1a30fea702b59e5a7fa/tenor.gif?itemid=13417195",
-                "https://cdn.weeb.sh/images/HkEqiExdf.gif",
-                "https://media1.tenor.com/images/5f73f2a7b302a3800b3613095f8a5c40/tenor.gif?itemid=10005495",
-                "https://media1.tenor.com/images/6b701503b0e5ea725b0b3fdf6824d390/tenor.gif?itemid=12141727",
-                "https://media1.tenor.com/images/069076cc8054bb8b114c5a37eec70a1f/tenor.gif?itemid=13248504",
-                "https://media1.tenor.com/images/fc0ef2ba03d82af0cbd6c5815c3c83d5/tenor.gif?itemid=12141725",
-                "https://media1.tenor.com/images/d702fa41028207c6523b831ec2db9467/tenor.gif?itemid=5990650",
-                "https://media1.tenor.com/images/81769ee6622b5396d1489fb4667fd20a/tenor.gif?itemid=14376074",
-                "https://media1.tenor.com/images/feeef4685f9307b76c78a22ba0a69f48/tenor.gif?itemid=8413059",
-                "https://media1.tenor.com/images/efd46743771a78e493e66b5d26cd2af1/tenor.gif?itemid=14002773",
-            ],
+
             "highfive": [
                 "https://media1.tenor.com/images/0ae4995e4eb27e427454526c05b2e3dd/tenor.gif?itemid=12376992",
                 "https://media1.tenor.com/images/7b1f06eac73c36721912edcaacddf666/tenor.gif?itemid=10559431",
@@ -320,48 +255,6 @@ class Roleplay(BaseCog):
 
     @commands.command()
     @commands.bot_has_permissions(embed_links=True)
-    async def cuddle(self, ctx, *, user: discord.Member):
-        """Cuddles a user!"""
-
-        author = ctx.message.author
-        images = await self.config.cuddle()
-
-        nekos = await self.fetch_nekos_life(ctx, "cuddle")
-        images.extend(nekos)
-
-        mn = len(images)
-        i = randint(0, mn - 1)
-
-        # Build Embed
-        embed = discord.Embed()
-        embed.description = f"**{author.mention} cuddles {user.mention}**"
-        embed.set_footer(text="Made with the help of nekos.life")
-        embed.set_image(url=images[i])
-        await ctx.send(embed=embed)
-
-    @commands.command()
-    @commands.bot_has_permissions(embed_links=True)
-    async def kiss(self, ctx, *, user: discord.Member):
-        """Kiss a user!"""
-
-        author = ctx.message.author
-        images = await self.config.kiss()
-
-        nekos = await self.fetch_nekos_life(ctx, "kiss")
-        images.extend(nekos)
-
-        mn = len(images)
-        i = randint(0, mn - 1)
-
-        # Build Embed
-        embed = discord.Embed()
-        embed.description = f"**{author.mention} kisses {user.mention}**"
-        embed.set_footer(text="Made with the help of nekos.life")
-        embed.set_image(url=images[i])
-        await ctx.send(embed=embed)
-
-    @commands.command()
-    @commands.bot_has_permissions(embed_links=True)
     async def slap(self, ctx, *, user: discord.Member):
         """Slaps a user!"""
 
@@ -398,23 +291,6 @@ class Roleplay(BaseCog):
         # Build Embed
         embed = discord.Embed()
         embed.description = f"**{author.mention} pats {user.mention}**"
-        embed.set_footer(text="Made with the help of nekos.life")
-        embed.set_image(url=images[i])
-        await ctx.send(embed=embed)
-
-    @commands.command()
-    @commands.bot_has_permissions(embed_links=True)
-    async def lick(self, ctx, *, user: discord.Member):
-        """Licks a user!"""
-
-        author = ctx.message.author
-        images = await self.config.lick()
-        mn = len(images)
-        i = randint(0, mn - 1)
-
-        # Build Embed
-        embed = discord.Embed()
-        embed.description = f"**{author.mention} licks {user.mention}**"
         embed.set_footer(text="Made with the help of nekos.life")
         embed.set_image(url=images[i])
         await ctx.send(embed=embed)
